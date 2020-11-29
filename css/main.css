@@ -322,6 +322,7 @@ li.active{
     padding:20px 30px;
 }
 .item-text-title {
+    font-size: 20px; 
     margin-bottom: 10px;
 }
 .item-text-title a{
@@ -330,21 +331,8 @@ li.active{
 
 
 }
-.item-text-title a:hover{ 
-    border-bottom: 3px solid #ffbc00;
-}
 
-/* .item-image img{
-    position: absolute;
-    top:0;
-    left:0;
-    right:0;
-    bottom:0;
-    } */
-/* .item .item-image{
-display: block;
-transition: all 0.4s;
-} */
+
 
 /*Contact*/
 .contact{
